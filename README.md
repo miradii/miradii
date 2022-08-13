@@ -39,3 +39,4 @@ I've studied software engineering but worked in IT for most of my career.I put o
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/miradii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<p align="left"> <a href="https://www.linkedin.com/in/mir-hadi-hosseini-27260a213/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
